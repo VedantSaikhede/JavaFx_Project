@@ -22,7 +22,11 @@ main function call code : [WebBrowser.java](https://github.com/VedantSaikhede/Ja
 ```
 ## Screenshots
 ![Screenshot Loading...](https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(790).png)
+<br><br><br>
 ![Screenshot Loading...](https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(792).png)
+<br><br><br>
 ![Screenshot Loading...](https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(793).png)
+<br><br><br>
 ![Screenshot Loading...](https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(794).png)
+<br><br><br>
 ![Screenshot Loading...](https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(795).png)
